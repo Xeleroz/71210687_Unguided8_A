@@ -1,0 +1,7 @@
+kopi dituangkan kedalam cangkir melalui beberapa jalur. Terdapat 2 jalur yaitu: jalur kanan dan jalur kiri. Kopi bisa diisi melalui kedua jalur yang tersedia.
+
+1.Jalur kanan:Pada jalur kanan terdapat 3 jalur yang dapat dilewati yaitu jalur kiri, bawah, dan kanan. jalur kiri menuju ke cangkir nomor5, jalur bawah menuju pada sebuah jalur yang buntu, sedangkan jalur kanan menuju pada cangkir nomor 7.
+
+2.Jalur Kiri: Pada jalur kiri terdapat 2 jalur yang dapat dilewatu yaitu jalur kiri dan kanan. Jalur kiri menuju ke cangkir nomor 4 sedangkan jalur kanan menuju ke cangkir nomor 9.
+
+Kesimpulan: Cangkir yang terisi penuh terlebih dahulu adalah cangkir nomor 5, dikarenakan jalur yang menuju cangkir yang lainnya tertutup.
